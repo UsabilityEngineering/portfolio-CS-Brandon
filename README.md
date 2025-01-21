@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-Brandon UX Report
+[Brandon UX Report](journal/)

@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Brandon UX Report](journal/)
+[DaVinci Resolve, The Ultimate Editing Software](journal/)

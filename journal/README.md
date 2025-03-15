@@ -2,7 +2,7 @@
 ### by Brandon Henman 3/14/25
 
 
-A year ago, I grew frustrated with Adobe [Premiere Pro](https://www.adobe.com/products/premiere.html)'s slow rendering and constant app-switching for color correction, audio, and VFX that I use for work in daily basis.  Switching to [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) changed everything. With all post-production tools in one place, my workflow became more intuitive and streamlined. This reduces **cognitive load** which is one of the UX principle of minimizing cognitive load, meaning reducing the mental effort needed to process tasks by keeping aesthetic simple and easy to follow. Now instead of juggling multiple applications, I can focus entirely on the creative process on Davinci software.
+A year ago, I grew frustrated with Adobe [Premiere Pro](https://www.adobe.com/products/premiere.html)'s slow rendering and constant app-switching for color correction, audio, and VFX that I use for video work in daily basis.  Switching to [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) changed everything. With all post-production tools in one place, my editing workflow became more intuitive and streamlined. This reduces **cognitive load** which is one of the UX principle of minimizing cognitive load, meaning reducing the mental effort needed to process tasks by keeping aesthetic simple and easy to follow. Now instead of juggling multiple applications, I can focus entirely on the creative process on Davinci software.
 
 
 ![](img1.jpg)

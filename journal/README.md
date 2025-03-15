@@ -10,7 +10,7 @@ A year ago, I grew frustrated with Adobe [Premiere Pro](https://www.adobe.com/p
 Another area where Resolve excels is its color grading tools. The node-based color workflow, it provides the simple, yet the best control over color correction, grading, and it makes the editing process fun! Which also follows one of the UX principal of **aesthetic and minimalist design**, Unlike Premiere’s messy layers-based system, Resolve’s nodes allow for non-destructive, flexible grading, ensuring that every adjustment remains fully adjustable at any stage of the process. For someone working on mid to high end productions, this kind of control is indispensable. I believe this simple yet advanced color science is one reason why Hollywood colorists prefer Resolve over anything else!
 
 ![](img2.jpg)
-<br><br>f
+<br><br>
 When it comes to performance, DaVinci Resolve crushes the competition. Adobe Premiere, speaking from my exprience and others, often suffers from lag and crashes especially during rendering with 4-8K footages. Resolve, on the other hand, is optimized to utilize hardware more efficiently, making playback, rendering, and exporting much faster. This aligns with the UX principle of **"Efficiency of use"**—Resolve minimizes frustration by ensuring smooth operation, even when working on large projects.
 
 ![](img3.jpg)

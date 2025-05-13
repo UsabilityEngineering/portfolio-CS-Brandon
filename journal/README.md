@@ -2,17 +2,33 @@
 ### by Brandon Henman 3/14/25
 
 
-A year ago, I grew frustrated with Adobe [Premiere Pro](https://www.adobe.com/products/premiere.html)'s slow rendering and constant app-switching for color correction, audio, and VFX that I use for video work in daily basis.  Switching to [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) changed everything. With all post-production tools in one place, my editing workflow became more intuitive and streamlined. This reduces **cognitive load** which is one of the UX principle of minimizing cognitive load, meaning reducing the mental effort needed to process tasks by keeping aesthetic simple and easy to follow. Now instead of juggling multiple applications, I can focus entirely on the creative process on Davinci software.
+Last year, I hit a breaking point with Adobe [Premiere Pro](https://www.adobe.com/products/premiere.html). For my daily video work. I was constantly switching between separate adobe apps just to get through a single project. Color correction in Lumetri, audio in Audition, and any visual effects in After Effects. This fragmented experience overloaded my focus and created a clunky, inconsistent user journey. I wasn’t just frustrated with performance—I was frustrated with the user experience design itself.
+
+When I transitioned to [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), I immediately noticed how it was built from the ground up with UX principles in mind. Everything I needed was consolidated into a single, unified interface editing, color, audio, effects, and export all inside one environment. This reflects the UX principle of minimizing **cognitive load**, as the system reduced the number of tools I had to manage and let me stay in the same zone.
 
 
 ![](img1.jpg)
 <br><br>
-Another area where Resolve excels is its color grading tools. The node-based color workflow, it provides the simple, yet the best control over color correction, grading, and it makes the editing process fun! Which also follows one of the UX principal of **aesthetic and minimalist design**, Unlike Premiere’s messy layers-based system, Resolve’s nodes allow for non-destructive, flexible grading, ensuring that every adjustment remains fully adjustable at any stage of the process. For someone working on mid to high end productions, this kind of control is indispensable. I believe this simple yet advanced color science is one reason why Hollywood colorists prefer Resolve over anything else!
+To illustrate, here’s a breakdown of how I edited a recent client video using Resolve:
+
+I began in the Cut page to quickly select my best takes. The interface offered large, visual previews and accessible tools, which supported the principle of **recognition over recall**. I didn’t need to remember where tools were icons, shortcuts, and smart panels made options visible at all times.
+
+Then I moved into the Edit page. Its layout matched my existing **mental model** of a traditional non-linear editor: timeline at the bottom, preview monitor top right, media pool to the left. The tools were where I expected them to be, unlike Premiere where I often had to dig through nested panels and dropdowns.
+
+In the Color page, I used Resolve’s node-based system to isolate skin tones, balance exposure, and apply stylistic LUTs. Initially, the node graph seemed complex, but the logical structure aligned with how I conceptualize visual adjustments. Each node offered clear, visual **feedback**, showing the result of each action instantly—no hidden layers, no trial-and-error toggling.
+
+
 
 ![](img2.jpg)
 <br><br>
-When it comes to performance, DaVinci Resolve crushes the competition. Adobe Premiere, speaking from my exprience and others, often suffers from lag and crashes especially during rendering with 4-8K footages. Resolve, on the other hand, is optimized to utilize hardware more efficiently, making playback, rendering, and exporting much faster. This aligns with the UX principle of **"Efficiency of use"**—Resolve minimizes frustration by ensuring smooth operation, even when working on large projects.
+The Fairlight page gave me professional audio tools without needing to exit or relink files. I adjusted EQ and compressed dialogue using live meters and visual overlays, providing immediate system **feedback**. Again, this avoided mental back-and-forth between apps, which had previously caused mistakes and frustration.
+
+Finally, exporting on the Deliver page was simple. Presets were clearly labeled with icons and descriptions, reducing the risk of choosing the wrong settings—another example of **recognition over recall** in action.
+
 
 ![](img3.jpg)
 <br><br>
-Of course, no software is perfect. DaVinci Resolve does have a learning curve, and beginners may find its node-based color correction intimidating at first. However, once you get past that learning phase, the depth and power of Resolve become clear. If you're serious about video editing, there's simply no better choice!
+What makes Resolve truly shine is its consistency across modules. Each page is tailored to a phase of post-production, but all share a unified design language. This consistency supports learnability, helping users build accurate mental models that transfer across tasks. It also makes the interface more predictable, reducing the need for relearning when switching between color and audio work.
+
+
+In short, DaVinci Resolve isn't just a powerful tool—it’s a smartly designed environment where the front-end interface supports the user’s mental flow. It prioritizes clarity, consistency, and creative focus—hallmarks of great UX design. For any editor looking to work faster and think more clearly, Resolve is more than a replacement—it’s an upgrade in how we interact with our tools.

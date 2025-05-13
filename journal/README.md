@@ -2,7 +2,7 @@
 ### by Brandon Henman 3/14/25
 
 
-Last year, I hit a breaking point with Adobe [Premiere Pro](https://www.adobe.com/products/premiere.html). For my daily video work. I was constantly switching between separate adobe apps just to get through a single project. Color correction in Lumetri, audio in Audition, and any visual effects in After Effects. This fragmented experience overloaded my focus and created a clunky, inconsistent user journey. I wasn’t just frustrated with performance—I was frustrated with the user experience design itself.
+Last year, I hit a breaking point with Adobe [Premiere Pro](https://www.adobe.com/products/premiere.html). For my daily video work. I was constantly trying to find effects, button, and switching between separate adobe apps just to get through a single project. Color correction in Lumetri, audio in Audition, and any visual effects in After Effects all over the place. This fragmented experience overloaded my focus and created a clunky, inconsistent user journey. I wasn’t just frustrated with performance, I was frustrated with the user experience design itself.
 
 When I transitioned to [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), I immediately noticed how it was built from the ground up with UX principles in mind. Everything I needed was consolidated into a single, unified interface editing, color, audio, effects, and export all inside one environment. This reflects the UX principle of minimizing **cognitive load**, as the system reduced the number of tools I had to manage and let me stay in the same zone.
 
